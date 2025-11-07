@@ -6,8 +6,8 @@ title: Home
 <!-- One -->
 <section id="one" class="wrapper style2 special">
 	<header class="major">
-		<h2>Sed ipsum magna lorem tempus amet<br />
-		vehicula et gravida elementum</h2>
+		<h2>Protecting your today, <br />
+		preparing for your tomorrow.</h2>
 	</header>
 	<ul class="icons major">
 		<li><span class="icon fa-camera-retro"><span class="label">Shoot</span></span></li>
@@ -51,3 +51,4 @@ title: Home
 		</section>
 	</div>
 </section>
+
