@@ -1,7 +1,7 @@
 # Site settings
 title: Integrity
 email: amandavasqeuz616@gmail.com
-description: Just a simple, single page responsive template brought to you by HTML5 UP.
+description: Tax, Life Insurance and Finance
 baseurl: "/fractal-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site e.g. http://yvesespinosa.com
 download_button_url: ""
@@ -19,4 +19,5 @@ twitter_url:
 
 # Build settings
 markdown: kramdown
+
 
